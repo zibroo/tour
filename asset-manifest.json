@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97babeb4.css",
+    "main.js": "/static/js/main.204603d1.js",
+    "static/media/videoFootageForBgAboutPage.mp4": "/static/media/videoFootageForBgAboutPage.e02c397826cd7c4138a3.mp4",
+    "static/media/main-picture-main-page.jpg": "/static/media/main-picture-main-page.f367b6f3268fec9480d9.jpg",
+    "static/media/kg-photo.jpg": "/static/media/kg-photo.99ed95a2f1f0413d986e.jpg",
+    "static/media/headerBgForReviewsPage.jpg": "/static/media/headerBgForReviewsPage.0ca065f4c274f6137657.jpg",
+    "static/media/kz-photo.jpg": "/static/media/kz-photo.cb8abf7025c717986011.jpg",
+    "static/media/bg-image-for-favList-section.avif": "/static/media/bg-image-for-favList-section.35279976ef5face12c5d.avif",
+    "static/media/bgimage-for-tour-section.avif": "/static/media/bgimage-for-tour-section.a04505e9d1a4a48ac545.avif",
+    "static/media/pic_for_mainBanner.jpeg": "/static/media/pic_for_mainBanner.9899f07f313a30115a83.jpeg",
+    "static/media/photoOfBoss.jpg": "/static/media/photoOfBoss.06dd7be4ad92957a2977.jpg",
+    "static/media/navlogoMain.svg": "/static/media/navlogoMain.6c30a36c0a76a7fc166092b711b44e38.svg",
+    "static/media/hand-icon-for-scroll.svg": "/static/media/hand-icon-for-scroll.0c0ce5ac8ea02f205849.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.97babeb4.css.map": "/static/css/main.97babeb4.css.map",
+    "main.204603d1.js.map": "/static/js/main.204603d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97babeb4.css",
+    "static/js/main.204603d1.js"
+  ]
+}
